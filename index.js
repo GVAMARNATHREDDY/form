@@ -1,0 +1,1 @@
+alert("your are opening cbit bank page");

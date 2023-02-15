@@ -1,0 +1,31 @@
+* {
+  box-sizing: border-box;
+}
+body{
+  background-color: #913175;
+}
+.investment_image{
+  /* height:auto;
+  width:1500px;
+  image border:20%; */
+  margin-top: 20px;
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
+.heading{
+  color:#E9E8E8;
+  font-family: sans-serif;
+}
+.matter{
+  font-family:system-ui;
+}
+.stock_image{
+  width: 400px;
+  height: 200px;
+  border-radius: 8px;
+}
+.list{
+  color:#E9E8E8;
+  font-family: sans-serif;
+}
